@@ -1,4 +1,10 @@
-### Hi there 👋
+
+Hello there
+
+I am Jhimmy 😁, currently working on improving my skills as a developer 💻, trying to learn and share ✌️.
+Thanks for visiting.
+
+![](https://komarev.com/ghpvc/?username=JHIMMY&style=flat-square&label=My+Visitors&color=07da63)
 
 <!--
 **JHIMMY/JHIMMY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +20,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
