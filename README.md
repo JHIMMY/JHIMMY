@@ -1,7 +1,8 @@
 
 # Hello there
 
-I am Jhimmy 😁, currently working on improving my skills as a developer 💻, trying to learn and share ✌️. <br>
+I am Jhimmy 😁, currently working on improving my skills as a developer 💻, trying to learn and share ✌️.
+<br><p></p>
 I have a youtube channel: <a><a href="https://www.youtube.com/c/jadsatv">Jadsa TV</a>
 Thanks for visiting!.
 
