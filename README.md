@@ -1,8 +1,9 @@
 
-Hello there
+# Hello there
 
-I am Jhimmy 😁, currently working on improving my skills as a developer 💻, trying to learn and share ✌️.
-Thanks for visiting.
+I am Jhimmy 😁, currently working on improving my skills as a developer 💻, trying to learn and share ✌️. <br>
+I have a youtube channel: <a><a href="https://www.youtube.com/c/jadsatv">Jadsa TV</a>
+Thanks for visiting!.
 
 ![](https://komarev.com/ghpvc/?username=JHIMMY&style=flat-square&label=My+Visitors&color=07da63)
 
