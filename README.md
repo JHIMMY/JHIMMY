@@ -3,7 +3,7 @@
 
 I am Jhimmy 😁, currently working on improving my skills as a developer 💻, trying to learn and share ✌️.
 <br><p></p>
-I have a youtube channel: <a><a href="https://www.youtube.com/c/jadsatv">Jadsa TV</a>
+I have a youtube channel: <a href="https://www.youtube.com/c/jadsatv" target="_blank">Jadsa TV</a>
 <br><p></p>
 Thanks for visiting!.
 
