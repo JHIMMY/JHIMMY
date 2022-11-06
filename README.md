@@ -1,7 +1,7 @@
 
 # Hello there
 
-I am Jhimmy 😁, currently working on improving my skills as a developer 💻, trying to learn and share ✌️.
+I am Jhimmy 😁, welcome to my github profile, I am trying to learn 💻 and share ✌️.
 <br><p></p>
 I have a youtube channel: <a href="https://www.youtube.com/c/jadsatv" target="_blank">Jadsa TV</a>
 <br><p></p>
