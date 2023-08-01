@@ -1,9 +1,9 @@
 
 # Hello there
 
-I am Jhimmy 😁, welcome to my github profile, I am trying to learn 💻 and share ✌️.
+I am Jhimmy 😁, welcome to my github profile
 <br><p></p>
-I have a youtube channel: <a href="https://www.youtube.com/c/jadsatv" target="_blank">Jadsa TV</a>
+I have a youtube channel: <a href="[https://www.youtube.com@jadsatv](https://www.youtube.com/@jadsa)" target="_blank">Jadsa Tech</a>
 <br><p></p>
 Thanks for visiting!.
 
