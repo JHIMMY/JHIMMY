@@ -3,7 +3,7 @@
 
 I am Jhimmy 😁, welcome to my github profile
 <br><p></p>
-I have a youtube channel: <a href="https://www.youtube.com/@jadsa" target="_blank">Jadsa Tech</a>
+I have a youtube channel: <a href="https://www.youtube.com/@jadsa" target="_blank"> Jadsa Tech </a>
 <br><p></p>
 Thanks for visiting!.
 
